@@ -1,5 +1,9 @@
 # Mini Projetos com javascript puro
 
+## DESCRIÇÃO:
+
+Projetos do Canal de vídeos do Professor Fernando Leonid para complemento das suas aulas remotas.
+
 ## Objetivo
 Não tem outra maneira para se aprender além de **praticar, praticar e praticar**.
 
